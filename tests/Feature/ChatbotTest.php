@@ -18,7 +18,7 @@ class ChatbotTest extends TestCase
         $response = $this->get('/');
 
         $response->assertStatus(200);
-        $response->assertSee('Gemini Chat');
+        $response->assertSee('Andriansyah Chatbot');
         $response->assertSee('Laravel 12');
         $response->assertSee('MySQL');
     }

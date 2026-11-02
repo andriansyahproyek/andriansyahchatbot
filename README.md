@@ -1,6 +1,6 @@
-# Aplikasi Chatbot Sederhana - Laravel 12 & Google Gemini AI
+# Andriansyah Chatbot - Laravel 12 & Google Gemini AI
 
-Aplikasi chatbot modern berbasis **Laravel 12** yang terintegrasi dengan **Google Gemini AI API** dan penyimpanan riwayat percakapan menggunakan database **MySQL**.
+Aplikasi chatbot modern bernama **Andriansyah Chatbot** berbasis **Laravel 12** yang terintegrasi dengan **Google Gemini AI API** dan penyimpanan riwayat percakapan menggunakan database **MySQL**.
 
 ---
 

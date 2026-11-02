@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>{{ config('app.name', 'Laravel') }} - Gemini AI Chatbot</title>
+    <title>{{ config('app.name', 'Andriansyah Chatbot') }}</title>
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -158,7 +158,7 @@
                     </div>
                     <div>
                         <h1 class="text-base font-bold text-white tracking-tight flex items-center gap-1.5">
-                            Gemini Chat <span class="text-[10px] uppercase font-semibold tracking-wider px-1.5 py-0.5 rounded bg-blue-500/20 text-blue-400 border border-blue-500/30">L12</span>
+                            Andriansyah Chatbot <span class="text-[10px] uppercase font-semibold tracking-wider px-1.5 py-0.5 rounded bg-blue-500/20 text-blue-400 border border-blue-500/30">L12</span>
                         </h1>
                         <p class="text-xs text-slate-400">Laravel 12 & MySQL</p>
                     </div>
@@ -246,9 +246,9 @@
                     <div class="w-16 h-16 mx-auto rounded-2xl bg-gradient-to-tr from-blue-600 via-indigo-600 to-sky-400 flex items-center justify-center shadow-xl shadow-blue-500/20 text-white text-2xl mb-4">
                         <i class="fa-solid fa-robot"></i>
                     </div>
-                    <h3 class="text-2xl font-bold text-white mb-2">Halo! Ada yang bisa saya bantu?</h3>
+                    <h3 class="text-2xl font-bold text-white mb-2">Halo! Selamat datang di Andriansyah Chatbot</h3>
                     <p class="text-sm text-slate-400 max-w-md mx-auto mb-8">
-                        Saya adalah asisten AI yang terhubung dengan model Google Gemini dan database MySQL via Laravel 12.
+                        Saya adalah asisten AI yang terhubung dengan model Google Gemini dan database MySQL via Laravel 12. Ada yang bisa saya bantu hari ini?
                     </p>
 
                     <!-- Suggestion Cards -->
@@ -324,7 +324,7 @@
                     </form>
                     
                     <p class="text-[11px] text-center text-slate-500 mt-2">
-                        Gemini AI dapat membuat kesalahan. Harap periksa kembali informasi penting.
+                        Andriansyah Chatbot ditenagai oleh Google Gemini & Laravel 12. Harap periksa kembali informasi penting.
                     </p>
                 </div>
             </div>

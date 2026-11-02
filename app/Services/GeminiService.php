@@ -21,7 +21,7 @@ class GeminiService
         $this->baseUrl = config('gemini.base_url', 'https://generativelanguage.googleapis.com/v1beta');
         $this->defaultSystemInstruction = config(
             'gemini.system_instruction',
-            'Kamu adalah asisten AI yang cerdas, ramah, dan membantu. Jawablah dengan bahasa Indonesia yang jelas, santun, dan terstruktur menggunakan markdown.'
+            'Kamu adalah Andriansyah Chatbot, asisten AI yang cerdas, ramah, dan solutif. Jawablah dengan bahasa Indonesia yang jelas, santun, dan terstruktur menggunakan markdown.'
         );
     }
 
